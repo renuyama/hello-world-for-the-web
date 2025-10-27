@@ -1,28 +1,24 @@
-# Hello World for the Web Template
-This project provides template code for Hello World for the Web and is based on 
-[W3Schools HTML Tutorial](https://www.w3schools.com/html/). 
+# Hello World for the Web
+
+This project implements **Shiva Lakshmi Renu Yama’s Hello World** webpage and is hosted using **GitHub Pages**.  
+It follows the *Hello World for the Web* assignment and demonstrates how to properly use a **curly apostrophe (’)** in HTML content.  
 
 ## Author
-Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
+Shiva Lakshmi Renu Yama  
+[email: ShivaLakshmiRenuYa@lewisu.edu](mailtp:ShivaLakshmiRenuYa@lewisu.edu)
+
+## Description
+This project displays the text:  
+**“Shiva Lakshmi Renu Yama’s Hello World”**  
+using a **curly apostrophe (’)** for proper typography. The webpage is styled as default **Header 2** text (`<h2>` tag) in HTML.
 
 ## Credits
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE.md](LICENSE) file for details.
 
 ## Improvements
-Add English language and UTF-8 tags by modifying index.html so that it looks like this:
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-	<title>Page Title</title>
-</head>
-<body>
-	<h1>This is a Heading</h1>
-	<p>This is a paragraph.</p>
-</body>
-</html>
-```
+- Added personalized Hello World message using curly apostrophe.  
+- Updated README with author information and project description.  
+- Implemented valid HTML structure and hosting via GitHub Pages.
